@@ -1,0 +1,29 @@
+todo:
+
+- download wikitext
+- implement bootstrap sampling
+- implement other similarity metrics
+
+
+
+thesis layout
+=============
+
+- intro
+- wiki text
+    - demonstrate variance of similarity metrics
+        - shuffle
+            - 3 metrics 
+        - bootstrap (docs)
+            - 3 metrics
+- hansard
+    - demonstrate comparison
+        - knockoff filter
+            - 3 metrics
+        - bh on empirical
+            - reshuffles
+                - 3 metrics
+            - bootstrap
+                - 3 metrics
+- discussion
+-conclusion
